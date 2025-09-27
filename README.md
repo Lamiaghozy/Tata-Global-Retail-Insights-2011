@@ -33,6 +33,15 @@ The work was done using **Power BI** and presented as an executive dashboard.
 
 ---
 
+## 📂 Data Access  
+The original raw and cleaned datasets are not included in this repository due to GitHub’s file size limitations.  
+
+For demonstration, this repository focuses on the **Power BI dashboard (.pbix)** and **PDF export**, which capture the full analysis and insights.  
+
+If needed, the datasets can be shared securely upon request.  
+
+---
+
 ## 🔑 Key Insights  
 - **Revenue Trends** → Revenue peaked in **November 2011 ($1.5M)** with seasonal spikes in Q4, guiding inventory and marketing strategies.  
 - **Top Countries** → The **Netherlands ($285k)**, **EIRE ($283k)**, and **Germany ($228k)** were leading markets (excluding UK).  
