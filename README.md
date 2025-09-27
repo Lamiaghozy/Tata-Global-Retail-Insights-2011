@@ -1,6 +1,6 @@
 # Tata Data Visualisation: Empowering Business with Effective Insights  
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](global map.png)
 
 ## 📊 Project Overview  
 This project analyses 2011 retail sales data to deliver actionable insights for senior leadership at a global retail client.  
